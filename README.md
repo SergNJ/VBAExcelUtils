@@ -1,2 +1,2 @@
 # VBAExcelUtils
-A few operation with MS Excel files
+A few operations with MS Excel files
